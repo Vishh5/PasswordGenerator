@@ -65,9 +65,9 @@ GitHub for version control
 
 📂 Project Structure
 
-PasswordGenerator/
+    PasswordGenerator/
 
-└── src/
+    └── src/
 
     ├── Main.java
     
