@@ -79,7 +79,7 @@ GitHub for version control
 
 Clone the repository:
 
-git clone https://github.com/yourusername/PasswordGenerator
+git clone https://github.com/Vishh5/PasswordGenerator
 
 
 Open the project in IntelliJ IDEA (recommended).
