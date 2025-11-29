@@ -64,10 +64,15 @@ FlatLaf (modern look & feel)
 GitHub for version control
 
 📂 Project Structure
+
 PasswordGenerator/
+
 └── src/
+
     ├── Main.java
+    
     ├── PasswordGenerator.java
+    
     └── PasswordGeneratorGUI.java
 
 🚀 How to Run
