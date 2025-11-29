@@ -4,6 +4,7 @@ A modern, fully–featured Password Generator application built using Java Swing
 Designed with a clean and responsive interface, this tool provides customizable password creation along with advanced security options and a polished user experience.
 
 ✨ Features
+
 🔧 Core Features
 
 Adjustable password length (8–64 characters)
